@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   environment {
-    REPO_URL    = 'https://github.com/ambaskaryash/portfolio-2025.git'
+    REPO_URL    = 'https://github.com/runzun123/portfolio-.git'
     REPO_BRANCH = 'main'
     WEB_ROOT    = '/home/jen/jenkinsfile'
   }
